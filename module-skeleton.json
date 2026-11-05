@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-data-operations-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-data-operations",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-data-operations-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/data-operations.md",
+  "presentationPlan": "projects/crm/nextjs/data-operations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
